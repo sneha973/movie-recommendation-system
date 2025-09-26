@@ -24,8 +24,4 @@ Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook – Development environment
 
-📂 Project Structure
-Movie_recommendation_system.ipynb   # Main Jupyter Notebook with implementation
-README.md                          # Project documentation
-requirements.txt                    # (Optional) List of dependencies
-data/                               # (Optional) Dataset files
+Dataset link-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_movies.csv
